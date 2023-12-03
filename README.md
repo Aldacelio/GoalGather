@@ -1,2 +1,2 @@
 # GoalGather
-Aplicativo de gerenciamento de partidas utilizando React Native e Firebas.
+Aplicativo de gerenciamento de partidas utilizando React Native e Firebase.
